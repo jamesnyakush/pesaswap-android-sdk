@@ -1,2 +1,10 @@
+include ':couponapi'
+include ':cardpayment'
+include ':customer'
+include ':paymentrequest'
+include ':recurringbilling'
+include ':reconciliation'
+include ':transaction'
+include ':mobile'
 include ':app'
 rootProject.name = "pesaswap"
