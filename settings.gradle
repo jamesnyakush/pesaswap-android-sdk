@@ -1,3 +1,5 @@
+include ':paymentrequest'
+include ':recurringbilling'
 include ':reconciliation'
 include ':transaction'
 include ':mobile'
