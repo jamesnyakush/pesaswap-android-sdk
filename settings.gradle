@@ -1,3 +1,4 @@
+include ':transaction'
 include ':mobile'
 include ':app'
 rootProject.name = "pesaswap"
