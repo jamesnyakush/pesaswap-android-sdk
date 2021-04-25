@@ -1,3 +1,4 @@
+include ':cardpayment'
 include ':customer'
 include ':paymentrequest'
 include ':recurringbilling'
