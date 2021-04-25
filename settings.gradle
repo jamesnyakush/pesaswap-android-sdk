@@ -1,3 +1,4 @@
+include ':couponapi'
 include ':cardpayment'
 include ':customer'
 include ':paymentrequest'
